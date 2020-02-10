@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    My first laravel aws ECS docker project
                 </div>
 
                 <div class="links">
